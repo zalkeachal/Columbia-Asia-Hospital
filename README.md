@@ -9,3 +9,4 @@ o	Employed DAX Functions like Average, Sum, IF, Calculate, Switch, Max, and Coun
 o	Created interactive dashboards and reports, incorporating charts, tables, and tabular views for effective data presentation.
 
 ![image alt](https://github.com/zalkeachal/Columbia-Asia-Hospital/blob/main/Screenshot%20(104).png?raw=true)
+![image alt](https://github.com/zalkeachal/Columbia-Asia-Hospital/blob/main/Screenshot%20(105).png?raw=true)
